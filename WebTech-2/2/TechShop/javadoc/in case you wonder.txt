@@ -1,0 +1,2 @@
+Использовал:
+javadoc -d "C:\Users\GEMATOGESH\Desktop\Бсуир\3 семестр\ВТ\TechShop\javadoc" -sourcepath "C:\Users\GEMATOGESH\Desktop\Бсуир\3 семестр\ВТ\TechShop\src" -subpackages by -encoding UTF-8

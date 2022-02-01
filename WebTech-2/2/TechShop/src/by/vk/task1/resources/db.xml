@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_76" class="java.beans.XMLDecoder">
+ <object class="by.vk.task1.entity.Speakers">
+  <void property="cord_length">
+   <int>2</int>
+  </void>
+  <void property="cost">
+   <int>78</int>
+  </void>
+  <void property="frequency_range">
+   <string>2-4</string>
+  </void>
+  <void property="number_of_speakers">
+   <int>2</int>
+  </void>
+  <void property="power_consumption">
+   <int>15</int>
+  </void>
+ </object>
+ <object class="by.vk.task1.entity.Speakers">
+  <void property="cord_length">
+   <int>3</int>
+  </void>
+  <void property="cost">
+   <int>770</int>
+  </void>
+  <void property="frequency_range">
+   <string>3-4</string>
+  </void>
+  <void property="number_of_speakers">
+   <int>3</int>
+  </void>
+  <void property="power_consumption">
+   <int>20</int>
+  </void>
+ </object>
+ <object class="by.vk.task1.entity.Speakers">
+  <void property="cord_length">
+   <int>4</int>
+  </void>
+  <void property="cost">
+   <int>27</int>
+  </void>
+  <void property="frequency_range">
+   <string>2-3.5</string>
+  </void>
+  <void property="number_of_speakers">
+   <int>4</int>
+  </void>
+  <void property="power_consumption">
+   <int>17</int>
+  </void>
+ </object>
+ <object class="by.vk.task1.entity.TabletPC">
+  <void property="battery_capacity">
+   <int>3</int>
+  </void>
+  <void property="color">
+   <string>blue</string>
+  </void>
+  <void property="cost">
+   <int>92</int>
+  </void>
+  <void property="display_inches">
+   <int>14</int>
+  </void>
+  <void property="flash_memory_capacity">
+   <int>2</int>
+  </void>
+  <void property="memory_rom">
+   <int>8000</int>
+  </void>
+ </object>
+ <object class="by.vk.task1.entity.TabletPC">
+  <void property="battery_capacity">
+   <int>4</int>
+  </void>
+  <void property="color">
+   <string>red</string>
+  </void>
+  <void property="cost">
+   <int>731</int>
+  </void>
+  <void property="display_inches">
+   <int>15</int>
+  </void>
+  <void property="flash_memory_capacity">
+   <int>6</int>
+  </void>
+  <void property="memory_rom">
+   <int>8000</int>
+  </void>
+ </object>
+ <object class="by.vk.task1.entity.TabletPC">
+  <void property="battery_capacity">
+   <int>5</int>
+  </void>
+  <void property="color">
+   <string>green</string>
+  </void>
+  <void property="cost">
+   <int>912</int>
+  </void>
+  <void property="display_inches">
+   <int>16</int>
+  </void>
+  <void property="flash_memory_capacity">
+   <int>8</int>
+  </void>
+  <void property="memory_rom">
+   <int>16000</int>
+  </void>
+ </object>
+ <object class="by.vk.task1.entity.VacuumCleaner">
+  <void property="bag_type">
+   <string>A2</string>
+  </void>
+  <void property="cleaning_width">
+   <int>20</int>
+  </void>
+  <void property="cost">
+   <int>802</int>
+  </void>
+  <void property="filter_type">
+   <char>A</char>
+  </void>
+  <void property="motor_speed_regulation">
+   <int>3000</int>
+  </void>
+  <void property="power_consumption">
+   <int>100</int>
+  </void>
+  <void property="wand_type">
+   <string>all-in-one</string>
+  </void>
+ </object>
+ <object class="by.vk.task1.entity.VacuumCleaner">
+  <void property="bag_type">
+   <string>AA-89</string>
+  </void>
+  <void property="cleaning_width">
+   <int>25</int>
+  </void>
+  <void property="cost">
+   <int>817</int>
+  </void>
+  <void property="filter_type">
+   <char>B</char>
+  </void>
+  <void property="motor_speed_regulation">
+   <int>2900</int>
+  </void>
+  <void property="power_consumption">
+   <int>110</int>
+  </void>
+  <void property="wand_type">
+   <string>all-in-one</string>
+  </void>
+ </object>
+ <object class="by.vk.task1.entity.VacuumCleaner">
+  <void property="bag_type">
+   <string>XX00</string>
+  </void>
+  <void property="cleaning_width">
+   <int>30</int>
+  </void>
+  <void property="cost">
+   <int>225</int>
+  </void>
+  <void property="filter_type">
+   <char>C</char>
+  </void>
+  <void property="motor_speed_regulation">
+   <int>2950</int>
+  </void>
+  <void property="power_consumption">
+   <int>90</int>
+  </void>
+  <void property="wand_type">
+   <string>all-in-one</string>
+  </void>
+ </object>
+ <object class="by.vk.task1.entity.Refrigerator">
+  <void property="cost">
+   <int>837</int>
+  </void>
+  <void property="freezer_capacity">
+   <int>10</int>
+  </void>
+  <void property="height">
+   <int>200</int>
+  </void>
+  <void property="overall_capacity">
+   <double>300.0</double>
+  </void>
+  <void property="power_consumption">
+   <int>100</int>
+  </void>
+  <void property="weight">
+   <int>20</int>
+  </void>
+  <void property="width">
+   <int>70</int>
+  </void>
+ </object>
+ <object class="by.vk.task1.entity.Refrigerator">
+  <void property="cost">
+   <int>814</int>
+  </void>
+  <void property="freezer_capacity">
+   <int>15</int>
+  </void>
+  <void property="height">
+   <int>180</int>
+  </void>
+  <void property="overall_capacity">
+   <double>300.0</double>
+  </void>
+  <void property="power_consumption">
+   <int>200</int>
+  </void>
+  <void property="weight">
+   <int>30</int>
+  </void>
+  <void property="width">
+   <int>80</int>
+  </void>
+ </object>
+ <object class="by.vk.task1.entity.Refrigerator">
+  <void property="cost">
+   <int>117</int>
+  </void>
+  <void property="freezer_capacity">
+   <int>20</int>
+  </void>
+  <void property="height">
+   <int>250</int>
+  </void>
+  <void property="overall_capacity">
+   <double>350.5</double>
+  </void>
+  <void property="power_consumption">
+   <int>150</int>
+  </void>
+  <void property="weight">
+   <int>35</int>
+  </void>
+  <void property="width">
+   <int>75</int>
+  </void>
+ </object>
+ <object class="by.vk.task1.entity.Laptop">
+  <void property="CPU">
+   <double>1.2</double>
+  </void>
+  <void property="OS">
+   <string>Windows</string>
+  </void>
+  <void property="battery_capacity">
+   <double>1.0</double>
+  </void>
+  <void property="cost">
+   <int>511</int>
+  </void>
+  <void property="display_inchs">
+   <int>18</int>
+  </void>
+  <void property="memory_rom">
+   <int>4000</int>
+  </void>
+  <void property="system_memory">
+   <int>1000</int>
+  </void>
+ </object>
+ <object class="by.vk.task1.entity.Laptop">
+  <void property="CPU">
+   <double>2.2</double>
+  </void>
+  <void property="OS">
+   <string>Linux</string>
+  </void>
+  <void property="battery_capacity">
+   <double>1.5</double>
+  </void>
+  <void property="cost">
+   <int>572</int>
+  </void>
+  <void property="display_inchs">
+   <int>22</int>
+  </void>
+  <void property="memory_rom">
+   <int>8000</int>
+  </void>
+  <void property="system_memory">
+   <int>1000</int>
+  </void>
+ </object>
+ <object class="by.vk.task1.entity.Laptop">
+  <void property="CPU">
+   <double>3.2</double>
+  </void>
+  <void property="OS">
+   <string>Windows</string>
+  </void>
+  <void property="battery_capacity">
+   <double>3.0</double>
+  </void>
+  <void property="cost">
+   <int>375</int>
+  </void>
+  <void property="display_inchs">
+   <int>22</int>
+  </void>
+  <void property="memory_rom">
+   <int>8000</int>
+  </void>
+  <void property="system_memory">
+   <int>1500</int>
+  </void>
+ </object>
+ <object class="by.vk.task1.entity.Oven">
+  <void property="capacity">
+   <int>32</int>
+  </void>
+  <void property="cost">
+   <int>717</int>
+  </void>
+  <void property="depth">
+   <int>60</int>
+  </void>
+  <void property="height">
+   <double>45.5</double>
+  </void>
+  <void property="power_consumption">
+   <int>1000</int>
+  </void>
+  <void property="weight">
+   <int>10</int>
+  </void>
+  <void property="width">
+   <double>59.5</double>
+  </void>
+ </object>
+ <object class="by.vk.task1.entity.Oven">
+  <void property="capacity">
+   <int>33</int>
+  </void>
+  <void property="cost">
+   <int>694</int>
+  </void>
+  <void property="depth">
+   <int>60</int>
+  </void>
+  <void property="height">
+   <double>45.0</double>
+  </void>
+  <void property="power_consumption">
+   <int>1500</int>
+  </void>
+  <void property="weight">
+   <int>12</int>
+  </void>
+  <void property="width">
+   <double>68.0</double>
+  </void>
+ </object>
+ <object class="by.vk.task1.entity.Oven">
+  <void property="capacity">
+   <int>33</int>
+  </void>
+  <void property="cost">
+   <int>607</int>
+  </void>
+  <void property="depth">
+   <int>60</int>
+  </void>
+  <void property="height">
+   <double>40.0</double>
+  </void>
+  <void property="power_consumption">
+   <int>2000</int>
+  </void>
+  <void property="weight">
+   <int>11</int>
+  </void>
+  <void property="width">
+   <double>70.0</double>
+  </void>
+ </object>
+ <object class="by.vk.task1.entity.Keetle">
+  <void property="cost">
+   <int>974</int>
+  </void>
+  <void property="depth">
+   <int>23</int>
+  </void>
+  <void property="height">
+   <double>19.0</double>
+  </void>
+  <void property="power_consumption">
+   <int>2</int>
+  </void>
+  <void property="weight">
+   <int>15</int>
+  </void>
+  <void property="width">
+   <double>10.0</double>
+  </void>
+ </object>
+ <object class="by.vk.task1.entity.Keetle">
+  <void property="cost">
+   <int>417</int>
+  </void>
+  <void property="depth">
+   <int>30</int>
+  </void>
+  <void property="height">
+   <double>20.0</double>
+  </void>
+  <void property="power_consumption">
+   <int>3</int>
+  </void>
+  <void property="weight">
+   <int>20</int>
+  </void>
+  <void property="width">
+   <double>10.0</double>
+  </void>
+ </object>
+ <object class="by.vk.task1.entity.Keetle">
+  <void property="cost">
+   <int>4</int>
+  </void>
+  <void property="depth">
+   <int>20</int>
+  </void>
+  <void property="height">
+   <double>10.0</double>
+  </void>
+  <void property="power_consumption">
+   <int>1</int>
+  </void>
+  <void property="weight">
+   <int>10</int>
+  </void>
+  <void property="width">
+   <double>5.0</double>
+  </void>
+ </object>
+</java>

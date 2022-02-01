@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="16.0.2" class="java.beans.XMLDecoder">
+ <int>4</int>
+ <object class="by.vk.task3.entity.User">
+  <void property="id">
+   <int>1</int>
+  </void>
+  <void property="pass">
+   <string>1</string>
+  </void>
+  <void property="rights">
+   <boolean>true</boolean>
+  </void>
+ </object>
+ <object class="by.vk.task3.entity.User">
+  <void property="id">
+   <int>2</int>
+  </void>
+  <void property="pass">
+   <string>2</string>
+  </void>
+ </object>
+ <object class="by.vk.task3.entity.User">
+  <void property="id">
+   <int>3</int>
+  </void>
+  <void property="pass">
+   <string>3</string>
+  </void>
+ </object>
+ <object class="by.vk.task3.entity.User">
+  <void property="id">
+   <int>4</int>
+  </void>
+  <void property="pass">
+   <string>4</string>
+  </void>
+ </object>
+</java>
